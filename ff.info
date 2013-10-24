@@ -1,0 +1,13 @@
+name = Full Frontal
+description = Base theme for Wunderkraut Sweden
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+;-------------- F E A T U R E S -------------
+features[] = logo
+features[] = favicon
+;features[] = name
+
+;--------------- PANEL PLUGINS ------------
+plugins[panels][layouts] = panels/layouts
